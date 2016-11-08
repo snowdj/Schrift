@@ -6,8 +6,8 @@
 
 # Global
 safe: false
-url: http://domain.xyz/
-source:      .
+url: http://snowdj.github.io/Schrift
+source:      
 destination: ./_site
 plugins:     ./_plugins
 
@@ -46,9 +46,9 @@ menus:
 - text: Archive
   url: /archive
   openiconic: list
-- text: some page
-  url: /anotherpage.html
-  openiconic: list-rich
+#- text: some page
+#  url: /anotherpage.html
+#  openiconic: list-rich
 - text: an About page
   url: /about.html
   openiconic: info
