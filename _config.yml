@@ -6,10 +6,10 @@
 
 # Global
 safe: false
-url: https://snowdj.github.io/Schrift
-source:      https://snowdj.github.io/Schrift
-destination: https://snowdj.github.io/Schrift/_site
-plugins:     https://snowdj.github.io/Schrift/_plugins
+url: https://snowdj.github.io/prose
+source:      https://snowdj.github.io/prose
+destination: https://snowdj.github.io/prose/_site
+plugins:     https://snowdj.github.io/prose/_plugins
 
 # Server
 port: 4000
