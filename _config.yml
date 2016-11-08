@@ -38,7 +38,7 @@ maintitle: Schrift <span>for Jekyll</span>
 
 # Enter below a short description that will sit next to your head title.
 #    | {optional}
-maindesc: <a href=https://github.com/Schoewilliam/Schrift><span class=oi data-glyph=fork></span> Fork me</a>
+#maindesc: <a href=https://github.com/Schoewilliam/Schrift><span class=oi data-glyph=fork></span> Fork me</a>
 
 # Enter below the items of your main menu
 #    | Keep it a small amount. It is designed for a small menu.
