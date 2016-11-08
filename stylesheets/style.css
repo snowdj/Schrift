@@ -539,6 +539,10 @@ blockquote {
 	color: #777;
 }
 
+.catbloc:not(:target) {
+    display: none;
+}
+
 
 /* Readnext footer */
 
