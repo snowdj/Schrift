@@ -7,9 +7,9 @@
 # Global
 safe: false
 url: http://snowdj.github.io/Schrift
-source:      
-destination: ./_site
-plugins:     ./_plugins
+source:      ./Schrift
+destination: ./Schrift/_site
+plugins:     ./Schrift/_plugins
 
 # Server
 port: 4000
