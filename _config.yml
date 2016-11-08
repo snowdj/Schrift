@@ -28,13 +28,13 @@ auto_ids:    true
 
 # Enter below your name or pseudo & a short description
 #    | These don't appear on the website. They are used to set the <META>s
-author: Your Name
+author: Snowdj
 description: A clean and minimalist Jekyll template. Designed for prose.
-title: Schrift template  # Appears in the window title of the browser. Stands alone on the homepage, sits beside the post title on post pages.
+title: Writing template  # Appears in the window title of the browser. Stands alone on the homepage, sits beside the post title on post pages.
 
 # Enter below the headtitle of your weblog/website
 #    | It appears on the main navigation bar. You use <span></span> to nicely fade out some part of it
-maintitle: Schrift <span>for Jekyll</span>
+maintitle: Evergreen <span> for life</span>
 
 # Enter below a short description that will sit next to your head title.
 #    | {optional}
